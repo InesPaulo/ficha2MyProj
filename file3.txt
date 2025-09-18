@@ -1,1 +1,10 @@
 Este é o exemplo de um ficheiro de texto file3
+
+
+
+
+Adicionei um pouco de texto a este ficheiro de texto!
+
+Oops nao fiz da maneira certa
+
+:C
