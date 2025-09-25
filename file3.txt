@@ -7,3 +7,4 @@ Este é o exemplo de um ficheiro de texto file3
   <li>Tea</li>
   <li>Milk</li>
 </ul>
+
